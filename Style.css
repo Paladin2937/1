@@ -1,0 +1,11 @@
+body {
+    background-color: hotpink;
+    color: white;
+}
+class{
+    color: yellow;
+}
+.imageChange {
+    max-width: 400px;
+    height: auto;
+    }
